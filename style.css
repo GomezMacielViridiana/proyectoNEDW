@@ -172,31 +172,31 @@ td{
     right:0;
     height: 150px;
  }
- .recetas{
+ .categoria{
     display:flex;
     padding: 120px 0;
 
  }
- .recetas-1{
+ .categoria-1{
     width: 50%;
 
  }
- .recetas-1 h3{
+ .categoria-1 h3{
     font-size:18px;
     color:#DFDDE0;
  }
- .recetas-1 p{
+ .categoria-1 p{
     color: #e45d34;
  }
- .recetas-1 hr{
+ .categoria-1 hr{
     margin:10px 0;
     border:1px solid#312F32;
  }
- .recetas-2{
+ .categoria-2{
     width: 50%;
     text-align: center;
  }
- .recetas-2 h2{
+ .categoria-2 h2{
     font-size: 55px;
     line-height: 55px;
     color:#DFDDE0;
@@ -463,16 +463,16 @@ color:#8d7e7b !important;
 .arrow{
     display: none;
 }
-.recetas{
+.categoria{
     flex-direction: column;
     padding: 0px 30px;
     text-align:center;
 }
-.recetas-1{
+.categoria-1{
     width: 100%;
     margin-bottom: 25px;
 }
-.recetas-2{
+.categoria-2{
     width: 100%;
 }
 .footer{
